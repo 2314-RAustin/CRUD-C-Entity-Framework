@@ -1,0 +1,16 @@
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\bin\Debug\RobertoCRUD.exe.config
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\bin\Debug\RobertoCRUD.exe
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\bin\Debug\RobertoCRUD.pdb
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\bin\Debug\EntityFramework.dll
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\bin\Debug\EntityFramework.xml
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\obj\Debug\RobertoCRUD.csprojAssemblyReference.cache
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\obj\Debug\RobertoCRUD.Form1.resources
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\obj\Debug\RobertoCRUD.Presentational.Form1.resources
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\obj\Debug\RobertoCRUD.Properties.Resources.resources
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\obj\Debug\RobertoCRUD.csproj.GenerateResource.cache
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\obj\Debug\RobertoCRUD.csproj.CoreCompileInputs.cache
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\obj\Debug\RobertoCRUD.csproj.CopyComplete
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\obj\Debug\RobertoCRUD.exe
+C:\Users\RobertoEduardoMedina\source\repos\RobertoCRUD\RobertoCRUD\obj\Debug\RobertoCRUD.pdb
